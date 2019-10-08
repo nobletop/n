@@ -29,13 +29,13 @@
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.xuankai.milkTv</string>
+                <string>com.hwa.daodao</string>
                 <key>bundle-version</key>
-                <string>1.0.0</string>
+                <string>1.1</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>FanweApp</string>
+                <string>NOBLE</string>
             </dict>
         </dict>
     </array>
